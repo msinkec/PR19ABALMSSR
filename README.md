@@ -1,5 +1,5 @@
 # pr-projektna
-## TODO: Naslov
+## Analiza ocen restavracij evropskih restavracij na TripAdvisor-ju 
 
 *   Aljaž Božič (63170062)
 *   Anej Lekše (63170174)
