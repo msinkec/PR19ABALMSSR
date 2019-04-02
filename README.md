@@ -1,4 +1,4 @@
-# pr-projektna
+# PR19ALABMSSR
 ## Analiza ocen restavracij evropskih restavracij na TripAdvisor-ju 
 
 *   Aljaž Božič (63170062)
