@@ -11,7 +11,7 @@ Cilj našega projektnega dela je, da analaziramo podatke restavracij, ki so obja
 Poskušali se bomo osredotočiti na restavracije v Sloveniji.
 
 
-Vir podatkov: [Kaggle] (https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw/kernels "Kaggle")
+Vir podatkov: [Kaggle](https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw/kernels "Kaggle")
 
 Podatki so že v lepo strukturirani obliki, tako da nam jih ne bo treba predprocesirati.
 
