@@ -20,4 +20,5 @@ Iščemo odgovore na vprašanja, kot so sledeča:
 *   Ali obstaja korelacija med cenovnim razredom restavracije in oceno?
 *   Ali je vrsta kuhinj dober napovednik za oceno?
 *   Ali je možno na podlagi teh podatkov zgraditi model za napovedovanje uspešnosti restavracije?
+*   Katerih tipov kuhinj v določenem mestu "primanjkuje" glede na števila te kuhinje v drugih mestih?
 
